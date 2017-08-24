@@ -1,4 +1,4 @@
-package com.fragmadata.movies.util;
+package com.data.movies.util;
 
 import java.io.File;
 import java.io.FileInputStream;

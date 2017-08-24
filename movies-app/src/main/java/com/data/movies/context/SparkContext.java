@@ -1,4 +1,4 @@
-package com.fragmadata.movies.context;
+package com.data.movies.context;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.spark.SparkConf;

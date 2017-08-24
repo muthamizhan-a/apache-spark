@@ -1,7 +1,7 @@
-package com.fragmadata.movies.main;
+package com.data.movies.main;
 
-import com.fragmadata.movies.sparkcore.MoviesSparkJob;
-import com.fragmadata.movies.util.XLSXUtils;
+import com.data.movies.sparkcore.MoviesSparkJob;
+import com.data.movies.util.XLSXUtils;
 
 /**
  * @author Muthamizhan

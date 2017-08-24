@@ -1,4 +1,4 @@
-package com.fragmadata.movies.sparkcore;
+package com.data.movies.sparkcore;
 
 import static org.apache.spark.sql.functions.col;
 import static org.apache.spark.sql.functions.collect_list;
@@ -19,11 +19,11 @@ import org.apache.spark.sql.Encoders;
 import org.apache.spark.sql.Row;
 import org.apache.spark.sql.RowFactory;
 
-import com.fragmadata.movies.bean.Movie;
-import com.fragmadata.movies.bean.Rating;
-import com.fragmadata.movies.bean.User;
-import com.fragmadata.movies.context.SparkContext;
-import com.fragmadata.movies.util.XLSXUtils;
+import com.data.movies.bean.Movie;
+import com.data.movies.bean.Rating;
+import com.data.movies.bean.User;
+import com.data.movies.context.SparkContext;
+import com.data.movies.util.XLSXUtils;
 
 import scala.runtime.AbstractFunction1;
 

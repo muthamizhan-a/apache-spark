@@ -1,4 +1,4 @@
-package com.fragmadata.movies.bean;
+package com.data.movies.bean;
 
 import java.io.Serializable;
 
