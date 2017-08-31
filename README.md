@@ -1,6 +1,5 @@
 The application revolves movies dataset. The dataset contains 4 files which are follows,
 
-
 File Name	Description / Schema
 	
 movies.dat	MovieID – Title – Genres
@@ -8,7 +7,11 @@ movies.dat	MovieID – Title – Genres
 ratings.dat	UserID – MovieID – Rating – Timestamp
 	
 users.dat	UserID – Gender – Age – Occupation – ZipCode
-	
+
+Data Files:
+https://github.com/tamizh-git/apache-spark/tree/master/movies-app/src/test/resources/data/sample
+
+
 The code solves below problems.
 
 1.	Top ten most viewed movies with their movies Name (Ascending or Descending order)  
