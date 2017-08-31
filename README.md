@@ -22,6 +22,7 @@ The code solves below problems.
 
 Formulate results in following table:
 
+
 Genre Ranking by Avg. Rating	
 Occupation	Age-Group Rank 1	Rank 2	Rank 3	Rank 4	Rank 5
 Programmer	18-35	Action	Suspense	Thriller	Romance	Horror
