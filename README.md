@@ -1,4 +1,4 @@
-The problem mentioned below revolves around movies dataset. The dataset contains 4 files which are follows,
+The application revolves movies dataset. The dataset contains 4 files which are follows,
 
 
 File Name	Description / Schema
